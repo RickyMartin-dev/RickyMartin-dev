@@ -6,4 +6,4 @@ Computer Vision, Data Science, Machine Learning, and Robotics Related.
 Please feel free to contact me, I would love to collaborate, Thank You.
 
 <!-- ![Rickys's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickymartin-dev&show_icons=true&theme=ambient_gradient) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymartin-dev)]
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymartin-dev)] -->
